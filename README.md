@@ -13,7 +13,7 @@ The Front desk agent can add the guests, update preferences, create the bills an
 
 ## Database model
 
-![alt text](dbmodel.png	)
+![alt text](dbmodel.PNG	)
 
 
 ## User interface
