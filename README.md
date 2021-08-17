@@ -1,1 +1,2 @@
-# HotelReservationSystem
+# ProjectTeam06Hotel
+C# project
