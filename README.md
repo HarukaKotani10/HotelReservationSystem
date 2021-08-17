@@ -72,8 +72,7 @@ Reservation form contains reservation table, Guest ListBox, Room ListBox, add, u
 Choose a guest and a room from list boxes and fill up the required information to book a room
 Select a row from the reservation table to update, and delete a reservation
 
-![alt text](reservation.png)
-
+![alt text](reservation.PNG)
 
 
 ### 5. Payment Form
